@@ -1,0 +1,9 @@
+proyecto1 es el primer proyecto creado para aprender Python
+
+Tiene de todo un poco:
+
+leeArchivo.py lee un archivo de texto
+varios, 1 y 2 tienen definiciones varias
+leeDB.py lee una base de datos pymysql
+web1, 2, 3, 4, 5 trabajan con pymysql y Flask
+gui_ej5.pyw es orientado a objetos. Trabaja con biblioteca Tkinter para hacer las ventanas.
